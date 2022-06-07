@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC7A8B60c46B2ee8822f8cebDfbfF57d98214015c",
+  "SCAN_LINK": "https://polygonscan.com/token/0xC7A8B60c46B2ee8822f8cebDfbfF57d98214015c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lucky Numbers",
+  "SYMBOL": "LUCK",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/luckynumberss",
+  "SHOW_BACKGROUND": true
+}
